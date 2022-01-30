@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587518118286",
+    "project_id": "chatapp-a10f4",
+    "storage_bucket": "chatapp-a10f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587518118286:android:d7e84f85e402ecc43cfcdf",
+        "android_client_info": {
+          "package_name": "com.arthurfp.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587518118286-0u885ubctj28mos7ddf7nm0b8qo0di1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkD6LsPgWaapxPm1blSrCdDhBjLDhvAO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587518118286-0u885ubctj28mos7ddf7nm0b8qo0di1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

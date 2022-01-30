@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">chatapp</string>
+    <!--    Enter your facebook ID -->
+    <string name="facebook_app_id">"enter facebook id"</string>
+    <!--    Enter your Facebook protocol -->
+    <string name="fb_login_protocol_scheme">asaassssassasa</string>
+</resources>
