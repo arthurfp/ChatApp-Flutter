@@ -1,16 +1,30 @@
-# chat_app
+# ChatApp
 
-A new Flutter project.
+A modern  and clean chat application developed in Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Login with email, phone number, Google, and/or Facebook;
+- OTP Verification;
+- Fingerprint authentication;
+- Password reset;
+- iOS and Android compatibility;
+- Image messages support;
+- Firebase Integration.
 
-A few resources to get you started if this is your first Flutter project:
+## Firebase Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Android:
+- Create an Android app in the firebase console.
+- Download the google-services.json file
+- Replace the file in "android/app"
+### iOS:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Create an iOS app in the firebase console.
+- Download the Googleservice-info.plist file
+- Replace the file in "ios/Runner/info.plist"
+
+## Flutter installation
+
+- Install Flutter: https://flutter.dev/docs/get-started/install
+- Flutter Development Tutorial: https://flutter.dev/docs/development/tools/vs-code
